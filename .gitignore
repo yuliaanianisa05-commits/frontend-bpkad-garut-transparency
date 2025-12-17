@@ -1,0 +1,27 @@
+# dependencies
+/node_modules
+
+# build output
+/.next
+/out
+/build
+
+# static type checking
+/.tsbuildinfo
+
+# testing
+/coverage
+
+# local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# misc
+.DS_Store
+Thumbs.db
+
+# vscode
+.vscode/
